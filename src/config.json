@@ -1,0 +1,19 @@
+{
+  "page_tittle": "Gutenberg Project",
+  "sub_title": "A social cataloging website that allows you to freely search its database of books annotations, and reviews.",
+  "api_path": "http://skunkworks.ignitesol.com:8000",
+  "category": [
+    "Fiction",
+    "Drama",
+    "Humour",
+    "Politics",
+    "History",
+    "Adventure",
+    "Philosophy"
+  ],
+  "extensions": [
+    "text/html",
+    "application/pdf",
+    "text/plain; charset=utf-8:"
+  ]
+}
